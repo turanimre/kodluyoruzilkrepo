@@ -1,19 +1,26 @@
 # Kodluyoruz Ilk Repo
----
+
 Bu repo [Patika](https://app.patika.dev/moduller/git/markdown-nedir-nasil-kullaniriz-) Veri Bilimi eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de Deneme.ipynb barındırıyor. 
 
-## Installation 
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
+## Installation 
+---
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-'git clone https://github.com/turanimre/kodluyoruzilkrepo.git'
+
+```
+git clone https://github.com/turanimre/kodluyoruzilkrepo.git
+```
 
 ## Usage 
 ---
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
-''' cd kodluyoruzilkrepo
+```
+cd kodluyoruzilkrepo 
 code .
+```
 
 ## Contributing
 ---
@@ -23,5 +30,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Image 
-![My İmage](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
